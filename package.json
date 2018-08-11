@@ -4,7 +4,7 @@
   "description": "Social network of developers",
   "main": "server.js",
   "scripts": {
-    "start": "nodejs server.js",
+    "start": "node server.js",
     "server": "nodemon server.js"
   },
   "author": "Mateus Gamba",
