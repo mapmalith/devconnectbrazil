@@ -4,7 +4,7 @@ Developer Connector Brazil is a social network for developers. Users can create 
 
 It is built on React, Redux, Node.js, MongoDB, Docker and deployed with Heroku using Git.
 
-Visit [https://devconnectorbrazil.herokuapp.com/](https://devconnectorbrazil.herokuapp.com/) for the demo.
+![](image.png)
 
 ## The app is developed with the following functionality:
 
